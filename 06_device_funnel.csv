@@ -1,0 +1,4 @@
+device_type,total_users,visited,viewed,carted,purchased,conversion_rate
+tablet,6201,6175,1514,317,122,1.97
+mobile,108196,107855,25349,5534,2113,1.95
+desktop,153622,153086,34389,6694,2184,1.42
